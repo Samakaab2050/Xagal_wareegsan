@@ -5,5 +5,6 @@ Qormo gaaban
 <p> waa inaad didaashaa dowgaaga garataa duruufaha la dhaqantaa.
 
 damaciyo waayuhu waxay kuu diraayaan waa inaad dacmiirtaa daanta wacan ka raacdaa
+<hr>
 by samakaab
 </p>
